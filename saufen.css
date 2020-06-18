@@ -191,6 +191,9 @@ button.back:active {
 
 .beer {
   display: grid;
+  color: white;
+  font-weight: bold;
+  font-size: 150%;
   grid: auto-flow auto / auto auto;
 }
 
